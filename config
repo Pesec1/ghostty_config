@@ -1,1 +1,5 @@
+# NOTE: themes
 theme =  rose-pine-moon
+
+# NOTE: keybinds
+keybind = ctrl+alt+shift+e=write_selection_file:paste
